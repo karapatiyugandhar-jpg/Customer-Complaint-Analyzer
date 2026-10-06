@@ -1,0 +1,13 @@
+{
+  "name": "customer-complaint-analyzer",
+  "version": "1.0.0",
+  "description": "Text and Speech based Customer Complaint Analyzer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
